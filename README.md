@@ -1,8 +1,5 @@
 lets gooo
 
-# title stuff
-
-trial trial
-
+# new title
 
 cool new additions
